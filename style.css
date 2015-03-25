@@ -1,0 +1,7 @@
+*{margin:0px;padding:0px;box-sizing: content-box;}
+li{list-style: none;}
+.container{width: 100%;}
+.buttonlist{float:left;width: 20%;padding-top: 100px;padding-left: 20px;}
+.buttonlist ul li{margin-bottom: 20px;background-color: lightsalmon;padding:5px;text-align: center;border-radius: 5px;
+cursor: pointer;}
+.imageblock{float:left;width:75%;}
